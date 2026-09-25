@@ -1,7 +1,5 @@
-# Jaffer Hussain — Automation & CRM Portfolio
+# JHK Solution — Automation & CRM Portfolio
 
-Static portfolio featuring five project case studies, implementation galleries, and project PDFs.
+Five project case studies with implementation galleries and project PDFs.
 
-GitHub Pages: publish from `main` and `/ (root)` in Settings → Pages.
-
-Open `index.html` locally or serve this directory with a static HTTP server.
+Published with GitHub Pages from the main branch root.

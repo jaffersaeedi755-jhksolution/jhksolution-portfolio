@@ -17,3 +17,6 @@
 .ai-cover{background:#29253a}.ai-card .card-meta>span:first-child,.ai-detail .eyebrow,.ai-detail h1>span{color:#c4b2ff}.catalogue-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.card-body h3{min-height:64px}.related-note{margin-top:20px;border-top:1px solid var(--line);padding-top:18px;font-size:14px!important}.related-note a{color:var(--lime)}@media(max-width:760px){.catalogue-grid{grid-template-columns:1fr}.card-body h3{min-height:0}}
 
 .healthcare-cover{background:#203931}.healthcare-card .card-meta>span:first-child,.healthcare-detail .eyebrow,.healthcare-detail h1>span{color:#8ce0bb}
+
+/* JHK Solution company identity */
+.company-logo{position:relative;display:block;width:144px;height:78px;overflow:hidden;flex-shrink:0}.company-logo img{position:absolute;width:176px;height:176px;max-width:none;left:-16px;top:-48px}.header .brand{gap:16px}.header{min-height:112px}@media(max-width:760px){.company-logo{width:82px;height:48px}.company-logo img{width:102px;height:102px;left:-10px;top:-26px}.header .brand{gap:8px;font-size:15px}.header .brand small{font-size:9px}.header{min-height:94px}}
